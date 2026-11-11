@@ -49,7 +49,7 @@ A collaborative steampunk-themed city-building and economic strategy game develo
 - Contributed to UI development and game mechanics.
 - Features resource management, economic progression, and city development.
 
-### 🦆 Project Quack
+### 🦆 QuackFlow
 An initiative focused on developing websites and digital solutions for small businesses.
 
 - Exploring website development for local businesses.
